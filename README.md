@@ -1,0 +1,2 @@
+# Xml2Page_freemaker
+根据XML内容生成静态页面，内含将XMl转成json以及bean、模板引擎freemaker、读取文件
