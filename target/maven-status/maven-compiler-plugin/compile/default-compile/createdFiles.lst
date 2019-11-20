@@ -1,0 +1,10 @@
+cc\hydata\createhtml\freemaker_gernerate\bean\Li.class
+cc\hydata\createhtml\freemaker_gernerate\service\CreataHtml.class
+cc\hydata\createhtml\freemaker_gernerate\bean\PageBean.class
+cc\hydata\createhtml\freemaker_gernerate\bean\Directory.class
+cc\hydata\createhtml\freemaker_gernerate\bean\Ul.class
+cc\hydata\createhtml\freemaker_gernerate\FreemakerGernerateApplication.class
+cc\hydata\createhtml\freemaker_gernerate\bean\JsonRootBean.class
+cc\hydata\createhtml\freemaker_gernerate\bean\Page.class
+cc\hydata\createhtml\freemaker_gernerate\controller\GenerateController.class
+cc\hydata\createhtml\freemaker_gernerate\service\Xml2ListBean.class

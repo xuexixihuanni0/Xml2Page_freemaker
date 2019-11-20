@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: cc.hydata.createhtml.freemaker_gernerate.FreemakerGernerateApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.086 s <<< FAILURE! - in cc.hydata.createhtml.freemaker_gernerate.FreemakerGernerateApplicationTests
+initializationError(cc.hydata.createhtml.freemaker_gernerate.FreemakerGernerateApplicationTests)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: java.lang.IllegalStateException: SpringJUnit4ClassRunner requires JUnit 4.12 or higher.
+
